@@ -12,9 +12,9 @@
 <p align="center"> $${\color{red}
 ୧ ‧₊˚ 🔥⋅ Pyro }$$
 <p align="center"> $${\color{orange}
-꧁ ☬ ꧂ }$$
+•┈୨♡୧┈•  }$$
 <p align="center"> $${\color{#f3d212}
-★ }$$
+ᡣ𐭩 ⊹˚. * ── ✿ ── . ݁₊ ⊹ . ݁˖ . ݁ }$$
   <p align="center"> $${\color{yellow}
 ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ }$$
 <div align="center">
@@ -48,14 +48,8 @@
 [୧ ‧₊˚ 🔥⋅ Front (wip)](https://pluralkit.xyz/f/zhtaok)
  
 
- <p align="center">
-  
-${{\color{red}\Huge{\texttt{꧁ . . . 𝓓𝓸 𝔂𝓸𝓾 𝓫𝓮𝓵𝓲𝓮𝓿𝓮 𝓲𝓷 𝓶𝓪𝓰𝓲𝓬 ? . . . ꧂}}}}$ </p>
+<p align="center"> ${{\color{#f3d212}\Huge{\texttt{. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .}}}}$ </p>
+<p align="center"> ${{\color{#f39c12}\Huge{\texttt{. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .}}}}$ </p>
+<p align="center"> ${{\color{#e67e22}\Huge{\texttt{. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  .}}}}$ </p>
 
-${{\color{orange}{\texttt{꧁ . . . 𝓓𝓸 𝔂𝓸𝓾 𝓫𝓮𝓵𝓲𝓮𝓿𝓮 𝓲𝓷 𝓶𝓪𝓰𝓲𝓬 ? . . . ꧂}}}}$ </p>
-
-edited, coded, and decorated by [LuminescentOceansSys](https://imgoingtoexplodeyourhouse.straw.page/)
-
-
-
-
+edited, coded, and decorated by [LuminescentOceansSys](https://github.com/LuminescentOceansSys) everything else goes to sage ♡
