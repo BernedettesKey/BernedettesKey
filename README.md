@@ -36,8 +36,6 @@
 
 <text_here>
 
-  (note from Harvey - I recommend adding that you're a questioning sys, that way it's a bit more clear to the public eye. (i.e. : Questioning osdd-1b / ddnos-1b sys, iwc) or something like that)
-
 <p align="center"> ${{\color{orange}{\texttt{✦ · · · · ═══════ ʚ 🔥 ɞ ═══════· · · · ✦}}}}$ </p>
 <p align="center"> ${{\color{red}{\texttt{。 • ˚ ˚ ˛ ˚ ˛ • 。* 。° 。* 。 • ˚ *}}}}$ </p>
 
