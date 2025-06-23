@@ -37,7 +37,7 @@ ___________________________________
 <div align="center">
  
  
- ![views](https://komarev.com/ghpvc/?username=LuminescentOceansSys&abbreviated=true&label=Bioplankton&color=59A1C1)
+ ![views](https://komarev.com/ghpvc/?username=ReadMyStrawpag3&abbreviated=true&label=Views&color=59A1C1)
  
 
  <p align="center">
