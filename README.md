@@ -4,4 +4,16 @@
 
 <p align="center"> ${{\color{cyan}{\texttt{I'll add stuff here soon, trust}}}}$ </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BernedettesKey&show_icons=true&theme=highcontrast)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuminescentOceansSys&show_icons=true&theme=highcontrast)
+
+<p align="center"> ${{\color{cyan}{\texttt{BernedettesKey}}}}$ </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BernedettesKey)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center"> ${{\color{cyan}{\texttt{LuminescentOceansSys}}}}$ </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LuminescentOceansSys)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![1000000840](https://github.com/user-attachments/assets/89a68ef9-ba7d-49d2-89bd-84bec8f0b91a)
+
