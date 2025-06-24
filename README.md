@@ -4,8 +4,8 @@
 
 <p align="center"> ${{\color{cyan}{\texttt{I'll add stuff here soon, trust}}}}$ </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BernedettesKey&show_icons=true&theme=highcontrast)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuminescentOceansSys&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BernedettesKey&theme=maroongold&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuminescentOceansSys&show_icons=true&theme=vue-dark)
 
 <p align="center"> ${{\color{cyan}{\texttt{BernedettesKey}}}}$ </p>
 
