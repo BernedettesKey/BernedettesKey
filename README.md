@@ -1,8 +1,8 @@
 <div align="center">
 
-![bioplankton](https://komarev.com/ghpvc/?username=BernedettesKey&abbreviated=true&label=PageViews&color=Green)
+![bioplankton](https://komarev.com/ghpvc/?username=BernedettesKey&abbreviated=true&label=PageViews&color=056E00)
 
-<p align="center"> ${{\color{cyan}{\texttt{I'll add stuff here soon,}}}}$ </p>
+<p align="center"> ${{\color{#056E00}{\texttt{I'll add stuff here soon,}}}}$ </p>
 
 we play on ibis paint, i tend to accidentally hit the back button a lot.. uhm... so i disappear a lot. Also the reason why we play on ibis of all things, is because google is blocked so we use Facebook Messenger for Discord and Ibis Paint for everything else </3
 
