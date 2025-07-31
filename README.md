@@ -2,7 +2,11 @@
 
 ![bioplankton](https://komarev.com/ghpvc/?username=BernedettesKey&abbreviated=true&label=Bioplankton&color=59A1C1)
 
-<p align="center"> ${{\color{cyan}{\texttt{I'll add stuff here soon, trust}}}}$ </p>
+<p align="center"> ${{\color{cyan}{\texttt{I'll add stuff here soon,}}}}$ </p>
+
+<div align="left">
+  
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=00ffff)](https://github.com/kittinan/spotify-github-profile) </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BernedettesKey&theme=maroongold&show_icons=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuminescentOceansSys&show_icons=true&theme=vue-dark)
