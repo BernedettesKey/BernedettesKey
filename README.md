@@ -4,6 +4,8 @@
 
 <p align="center"> ${{\color{#056E00}{\texttt{I'll add stuff here soon,}}}}$ </p>
 
+[rentry](https://rentry.co/lostdogswonder)
+
 we play on ibis paint, i tend to accidentally hit the back button a lot.. uhm... so i disappear way more than i should. Also the reason why we play on ibis of all things, is because google is blocked so we use Facebook Messenger for Discord and Ibis Paint for everything else. But there will be rare occasions where were playing on our computer!!
 
 <div align="center">
