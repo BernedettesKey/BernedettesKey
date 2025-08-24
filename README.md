@@ -8,6 +8,8 @@
 
 [rentry (BROKEN RN FOR SOME REASON??????)](https://rentry.co/lostdogswonder)
 
+<p align="center"> ${{\color{#056E00}{\texttt{5teen , iwc .. TF2 FANS INT!!!! The Beatles , Pierce The Veil}}}}$ </p>
+
 we play on ibis paint, i tend to accidentally hit the back button a lot.. uhm... so i disappear way more than i should. Also the reason why we play on ibis of all things, is because google is blocked so we use Facebook Messenger for Discord and Ibis Paint for everything else. But there will be rare occasions where were playing on our computer!!
 
 <div align="center">
